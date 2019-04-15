@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://cahtoophei.daft-pgm.org/sitemap.xml
